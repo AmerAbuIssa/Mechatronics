@@ -28,22 +28,22 @@ Ex01 - Files on Linux
 * Create a directory (mkdir)
 * Create a text file in it (use gedit and nano)
 * Make a copy of the file and modify it (cp)
-* Delete the original
+* Delete the original file
 
 
 Ex02 - Using GIT
 --------------------
 * create a week00 folder in scratch
-* create a text note in that folder
+* create a text file in that folder
 * add/commit/push to git repo
 
 
-Ex03 and Ex04 - use sample provided 
+Ex03 - copy folder 
 --------------------------
-* copy  tutorials/week00 to scratch/week00/
+* copy  tutorials/week00 to scratch/week00
 
 
-Ex03 - Compiling cmake projects (command line only)
+Ex04 - Compiling cmake projects (command line only)
 ---------------------
 Compile [hello.cpp](./starter/hello.cpp)
 
@@ -54,9 +54,9 @@ Compile [hello.cpp](./starter/hello.cpp)
 * run executable 
 * modify cout text to use your name "Hello <YOUR_NAME>"
 * rebuild and run
-* commit modified project (without build products)
+* commit modified project (without build products) to your repository
 
-Ex04 - Compiling cmake projects (vscode)
+Ex05 - Compiling cmake projects (vscode)
 ---------------------
 Compile [hello.cpp](./starter/hello.cpp)
 * create build directory
