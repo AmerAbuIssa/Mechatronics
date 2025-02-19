@@ -5,8 +5,8 @@ This is your individual repository for 41012 - Programming for Mechatronic Syste
 Links
 ------------------------------------
 * [Git Help](./GIT_HELP.md)
-* [Our TEAMS site](https://teams.microsoft.com/l/team/19%3aCA4YXKcOJJeFnK0n5dtyhdYBzplZ1XHZ4bIOCliCK6w1%40thread.tacv2/conversations?groupId=ca656a08-633c-4d6c-88c8-fa9dc81f62e9&tenantId=e8911c26-cf9f-4a9c-878e-527807be8791) 
-* [Please also register your GIT Repository here](https://forms.office.com/r/9HPa9ktLgU) 
+* [Our TEAMS site]([41012 Programming for Mechatronic Systems - Autumn 2025 | General | Microsoft Teams](https://teams.microsoft.com/l/team/19%3Aa0PUuaVuu821TAVfF5tZnE4Y2Fhgz9rguEd7A9flg2c1@thread.tacv2/conversations?groupId=b92606ca-1b87-406f-b629-e52d45ba74a4&tenantId=e8911c26-cf9f-4a9c-878e-527807be8791)) 
+* [Please also register your GIT Repository here](https://forms.office.com/r/VyF0pBya0R) 
 
 Organisation
 ------------------------------------
