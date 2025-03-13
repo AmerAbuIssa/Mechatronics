@@ -8,7 +8,7 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++17")
 set(BUILD_TESTS ON)
 SET(MYDEBUG CACHE STRING "Additional definition" ON)
 
-find_package(pfms2ros REQUIRED 3.0.7)
+find_package(pfms2ros 3.0.7 REQUIRED)
 
 # CMake will create your library, add the cpp files needed
 add_library(controller controller.cpp ackerman.cpp skidsteer.cpp)

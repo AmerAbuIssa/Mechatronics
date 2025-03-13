@@ -1,7 +1,7 @@
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++17")
 SET(MYDEBUG CACHE STRING "Additional definition" ON) # Needed to get RCLCPP headers in
 
-find_package(pfms2ros REQUIRED 3.0.7)
+find_package(pfms2ros 3.0.7 REQUIRED)
 
 # Just in case someone had the include files in seperate directory
 include_directories(../include)
