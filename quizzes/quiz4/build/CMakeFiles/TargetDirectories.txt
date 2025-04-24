@@ -1,0 +1,7 @@
+/home/student/git/pfms-2025a-AmerAbuIssa/quizzes/quiz4/build/CMakeFiles/laserprocessing.dir
+/home/student/git/pfms-2025a-AmerAbuIssa/quizzes/quiz4/build/CMakeFiles/controllers.dir
+/home/student/git/pfms-2025a-AmerAbuIssa/quizzes/quiz4/build/CMakeFiles/edit_cache.dir
+/home/student/git/pfms-2025a-AmerAbuIssa/quizzes/quiz4/build/CMakeFiles/rebuild_cache.dir
+/home/student/git/pfms-2025a-AmerAbuIssa/quizzes/quiz4/build/test/CMakeFiles/utest.dir
+/home/student/git/pfms-2025a-AmerAbuIssa/quizzes/quiz4/build/test/CMakeFiles/edit_cache.dir
+/home/student/git/pfms-2025a-AmerAbuIssa/quizzes/quiz4/build/test/CMakeFiles/rebuild_cache.dir

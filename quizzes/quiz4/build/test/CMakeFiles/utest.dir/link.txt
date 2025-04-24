@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -g -rdynamic CMakeFiles/utest.dir/utest.cpp.o -o utest   -L/opt/ros/humble/lib  -Wl,-rpath,/opt/ros/humble/lib -lpfmshog ../libcontrollers.a -lpfmsconnector ../liblaserprocessing.a /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a -lpfmsconnector 
